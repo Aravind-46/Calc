@@ -1,5 +1,5 @@
 a = 5
 b = 10
-c = 45
+c = 15
 d = a+b+c
 print(d)
